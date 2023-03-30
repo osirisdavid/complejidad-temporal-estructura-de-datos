@@ -1,0 +1,6 @@
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\TP\TP-1\TP-1\bin\Debug\TP-1.exe.config
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\TP\TP-1\TP-1\bin\Debug\TP-1.exe
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\TP\TP-1\TP-1\bin\Debug\TP-1.pdb
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\TP\TP-1\TP-1\obj\Debug\TP-1.csprojResolveAssemblyReference.cache
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\TP\TP-1\TP-1\obj\Debug\TP-1.exe
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\TP\TP-1\TP-1\obj\Debug\TP-1.pdb
