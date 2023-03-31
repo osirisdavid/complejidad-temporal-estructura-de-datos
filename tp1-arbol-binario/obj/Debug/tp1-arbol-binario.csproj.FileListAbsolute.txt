@@ -1,0 +1,6 @@
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\Practicas\tp1-arbol-binario\tp1-arbol-binario\obj\Debug\tp1-arbol-binario.csprojResolveAssemblyReference.cache
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\Practicas\tp1-arbol-binario\tp1-arbol-binario\obj\Debug\TP-1.exe
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\Practicas\tp1-arbol-binario\tp1-arbol-binario\bin\Debug\TP-1.exe.config
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\Practicas\tp1-arbol-binario\tp1-arbol-binario\bin\Debug\TP-1.exe
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\Practicas\tp1-arbol-binario\tp1-arbol-binario\bin\Debug\TP-1.pdb
+C:\Users\osiri\Desktop\UNAJ Ingenieria\2° AÑO\Complejidad Temporal, Estructura de Datos y Algoritmos\Practicas\tp1-arbol-binario\tp1-arbol-binario\obj\Debug\TP-1.pdb
